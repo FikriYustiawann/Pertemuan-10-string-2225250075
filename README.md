@@ -7,11 +7,6 @@
 | **Kelas** | 3E |
 | **Jurusan** | Pendidikan Matematika |
 
-Mata Kuliah: Algoritma dan Pemrograman
-Program Studi: S1 Pendidikan Matematika FKIP Universitas Sultan Ageng Tirtayasa
-Dosen Pengampu: Dr. Aan Hendrayana, S.Si., M.Pd.
-Tahun Ajaran: 2026/2027 Ganjil
-
 ## Tujuan
 
 Mengolah dan menormalisasi data teks dengan string Python: akses karakter, slicing, pencarian, pembersihan, pemisahan, penggabungan, dan transformasi teks, lalu menerapkannya pada data nama mahasiswa dan kode kelas.
