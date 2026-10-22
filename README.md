@@ -1,8 +1,11 @@
 # Pertemuan 10 - String dan Pengolahan Teks
 
-Nama: Fikri Yustiawan
-NIM: 2225250075
-Kelas: 3-E
+| **Keterangan** | **Data** |
+|---|---|
+| **Nama** | Fikri Yustiawan |
+| **NIM** | 2225250075 |
+| **Kelas** | 3E |
+| **Jurusan** | Pendidikan Matematika |
 
 Mata Kuliah: Algoritma dan Pemrograman
 Program Studi: S1 Pendidikan Matematika FKIP Universitas Sultan Ageng Tirtayasa
