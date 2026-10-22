@@ -1,13 +1,11 @@
 # Pertemuan 10 - String dan Pengolahan Teks
 
-Nama: Fikri Yustiawan
-NIM: 2225250075
-Kelas: 3-E
-
-Mata Kuliah: Algoritma dan Pemrograman
-Program Studi: S1 Pendidikan Matematika FKIP Universitas Sultan Ageng Tirtayasa
-Dosen Pengampu: Dr. Aan Hendrayana, S.Si., M.Pd.
-Tahun Ajaran: 2026/2027 Ganjil
+| **Keterangan** | **Data** |
+|---|---|
+| **Nama** | Fikri Yustiawan |
+| **NIM** | 2225250075 |
+| **Kelas** | 3E |
+| **Jurusan** | Pendidikan Matematika |
 
 ## Tujuan
 
